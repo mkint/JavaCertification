@@ -13,6 +13,7 @@ public class ConflictExample {
         // Date date; //this will cause some issues as seen above
         java.util.Date utilDate;
         java.sql.Date sqlDate;
+        System.out.println("test");
 
 //        Main m = new Main(); //common error, you cannot import from default packages (aka src)
         // so its a good idea to have at least one root package ("academy" in this case) to store stuff if needed
