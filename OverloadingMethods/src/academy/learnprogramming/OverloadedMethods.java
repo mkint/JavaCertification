@@ -57,6 +57,8 @@ public class OverloadedMethods {
         jump(25); // integer is not found so it's cast to object
 
         sum(1, 2);
+        count(true,true,true);
+        count(true, new boolean[]{true, true});
         /*
          by priority of existence:
          calls int sum
@@ -64,6 +66,11 @@ public class OverloadedMethods {
          calls Integer sum
          calls var args sum
         */
+    }
+
+    public static int count(boolean b, boolean... b2) {
+        System.out.println(b2.length);
+        return b2.length;
     }
 
     public static int sum(int a, int b) {
@@ -80,6 +87,7 @@ public class OverloadedMethods {
         System.out.println("integer sum");
         return a + b;
     }
+
 
     public static int sum(int... numbers) {
         System.out.println("var args sum");
