@@ -47,7 +47,9 @@ public class ArrayListMethods2 {
         // but order of elements is not equal
         System.out.println(pets.equals(newPets)); // false
 
+        int[] newTest = {1,2,3};
 
+        
 
 
     }
