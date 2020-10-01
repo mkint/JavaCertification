@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8604c853-55c1-4a12-9295-9e5add1288b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CatchingExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/CatchingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/CheckedVsUnchecked.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedVsUnchecked/src/academy/learnprogramming/CheckedVsUnchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/DealingWithExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DealingWithExceptions/src/academy/learnprogramming/DealingWithExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FormattingDateTime/FormattingDateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParsingDateTime/ParsingDateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnderstandingExceptions/UnderstandingExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDateAndTime/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDateAndTime/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDateAndTime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDateAndTime/UsingDateAndTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingDateAndTime/src/academy/learnprogramming/UsingDateAndTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingFinally/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingFinally/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingFinally/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingFinally/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingFinally/UsingFinally.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingFinally/src/academy/learnprogramming/UsingFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsingPeriod/UsingPeriod.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hyWSlE5NnJ5SYHGjktoupMBcmJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CatchingExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.CatchingExceptions" />
+      <module name="CatchingExceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.learnprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CatchingExceptions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8604c853-55c1-4a12-9295-9e5add1288b9" name="Default Changelist" comment="" />
+      <created>1600983814197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600983814197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="723" height="245" key="GridCell.Tab.0.bottom" timestamp="1600989561367">
+      <screen x="0" y="0" width="1536" height="930" />
+    </state>
+    <state width="723" height="245" key="GridCell.Tab.0.bottom/0.0.1536.930@0.0.1536.930" timestamp="1600989561367" />
+    <state width="723" height="245" key="GridCell.Tab.0.center" timestamp="1600989561367">
+      <screen x="0" y="0" width="1536" height="930" />
+    </state>
+    <state width="723" height="245" key="GridCell.Tab.0.center/0.0.1536.930@0.0.1536.930" timestamp="1600989561367" />
+    <state width="723" height="245" key="GridCell.Tab.0.left" timestamp="1600989561367">
+      <screen x="0" y="0" width="1536" height="930" />
+    </state>
+    <state width="723" height="245" key="GridCell.Tab.0.left/0.0.1536.930@0.0.1536.930" timestamp="1600989561367" />
+    <state width="723" height="245" key="GridCell.Tab.0.right" timestamp="1600989561367">
+      <screen x="0" y="0" width="1536" height="930" />
+    </state>
+    <state width="723" height="245" key="GridCell.Tab.0.right/0.0.1536.930@0.0.1536.930" timestamp="1600989561367" />
+  </component>
+</project>
